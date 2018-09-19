@@ -1,2 +1,3 @@
 # hello-world
 I am new to Github and coding and this is my first project / trial run!
+I am an economics student graduating early in December from The University of Texas at Austin. Economics is the study of how people allocate scarce resources to create opportunity. Specifically, I am interested in how society addresses affordable housing and schooling. We can use econometric modeling combined with machine learning to help derrive answers to such economic questions. We live in an increasingly data driven world and how we observe, interpret, and manipulate this data is crucial to the advancement of human and economic development.
